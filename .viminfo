@@ -1,0 +1,761 @@
+# Ce fichier viminfo a été généré par Vim 8.1.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/inormap
+
+# Dernier motif de recherche Substitue  :
+~MSle0&--needed
+
+# Dernières chaînes de substitution :
+$Last Modified By  : Thava Nix <thavaprasanthnavaraththinam\@gmail\.com>
+
+# Historique ligne de commande (chronologie décroissante) :
+:wq
+|2,0,1567870873,,"wq"
+:YcmRestartServer
+|2,0,1567870084,,"YcmRestartServer"
+:q!
+|2,0,1567870065,,"q!"
+:wq!
+|2,0,1567870063,,"wq!"
+:PluginInstall
+|2,0,1567869842,,"PluginInstall"
+:PlugInstall
+|2,0,1567869668,,"PlugInstall"
+:q
+|2,0,1567869564,,"q"
+:native
+|2,0,1567869062,,"native"
+:wq:
+|2,0,1567869014,,"wq:"
+:/inormap
+|2,0,1567868983,,"/inormap"
+:e! .vimrc
+|2,0,1567868620,,"e! .vimrc"
+:e .vimrc!
+|2,0,1567868613,,"e .vimrc!"
+:e .vimrc
+|2,0,1567868603,,"e .vimrc"
+:/File
+|2,0,1567778204,,"/File"
+:/map
+|2,0,1567778177,,"/map"
+:/native
+|2,0,1567778147,,"/native"
+:%s/--needed/--needed --force/g
+|2,0,1567541252,,"%s/--needed/--needed --force/g"
+:%s/*--needed$/--needed --force/g
+|2,0,1567541244,,"%s/*--needed$/--needed --force/g"
+:%s/^--needed$/--needed --force/g
+|2,0,1567541229,,"%s/^--needed$/--needed --force/g"
+:vsplit
+|2,0,1567540010,,"vsplit"
+:verbose imap <tab>
+|2,0,1567540207,,"verbose imap <tab>"
+:Plug
+|2,0,1567539812,,"Plug"
+:.!
+|2,0,1567421924,,".!"
+:s/--needed/ --needed  --force/g
+|2,0,1567421923,,"s/--needed/ --needed  --force/g"
+:s/$--needed/ --needed  --force/g
+|2,0,1567421913,,"s/$--needed/ --needed  --force/g"
+:s/--needed$/ --needed  --force/g
+|2,0,1567421905,,"s/--needed$/ --needed  --force/g"
+:/--needed$/ --force/g
+|2,0,1567421890,,"/--needed$/ --force/g"
+:s/^--needed$*/ --force /g
+|2,0,1567421580,,"s/^--needed$*/ --force /g"
+:s/^ --needed$* / --force /g
+|2,0,1567421572,,"s/^ --needed$* / --force /g"
+::wq!
+|2,0,1567359054,,":wq!"
+:wq!:
+|2,0,1567359043,,"wq!:"
+:swq
+|2,0,1567268762,,"swq"
+:wq:::
+|2,0,1567268736,,"wq:::"
+:PlugUpdate
+|2,0,1567268568,,"PlugUpdate"
+:q:
+|2,0,1567267816,,"q:"
+:YcmToggleLogs
+|2,0,1567267030,,"YcmToggleLogs"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+? Last Modified By\s*.*
+|2,1,1567869065,,"Last Modified By\\s*.*"
+? inormap
+|2,1,1567868983,,"inormap"
+? File
+|2,1,1567778204,,"File"
+? map
+|2,1,1567778177,,"map"
+? native
+|2,1,1567778147,,"native"
+? --needed
+|2,1,1567541252,,"--needed"
+? *--needed$
+|2,1,1567541244,,"*--needed$"
+? ^--needed$
+|2,1,1567541229,,"^--needed$"
+? \<File\>
+|2,1,1567539788,,"\\<File\\>"
+? \<group_names\>
+|2,1,1567539710,,"\\<group_names\\>"
+? $--needed
+|2,1,1567421913,,"$--needed"
+? --needed$
+|2,1,1567421905,,"--needed$"
+? ^--needed$*
+|2,1,1567421580,,"^--needed$*"
+? ^ --needed$* 
+|2,1,1567421572,,"^ --needed$* "
+? \<window\>
+|2,1,1567359103,,"\\<window\\>"
+? \<gi\>
+|2,1,1567359021,,"\\<gi\\>"
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+""0	CHAR	0
+	autocmd FileType python set omnifunc=pythoncomplete#Complete
+	autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+	autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+	autocmd FileType css set omnifunc=csscomplete#CompleteCSS
+	autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
+	autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+	autocmd FileType c set omnifunc=ccomplete#Complete
+	
+	imap <Tab> <Enter>
+|3,1,0,0,9,0,1567870941,"autocmd FileType python set omnifunc=pythoncomplete#Complete","autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS","autocmd FileType html set omnifunc=htmlcomplete#CompleteTags","autocmd FileType css set omnifunc=csscomplete#CompleteCSS","autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags","autocmd FileType php set omnifunc=phpcomplete#CompletePHP","autocmd FileType c set omnifunc=ccomplete#Complete","",>20
+|<"imap <Tab> <Enter>"
+"1	CHAR	0
+	autocmd FileType python set omnifunc=pythoncomplete#Complete
+	autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+	autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+	autocmd FileType css set omnifunc=csscomplete#CompleteCSS
+	autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
+	autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+	autocmd FileType c set omnifunc=ccomplete#Complete
+	
+	imap <Tab> <Enter>
+|3,0,1,0,9,0,1567869471,"autocmd FileType python set omnifunc=pythoncomplete#Complete","autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS","autocmd FileType html set omnifunc=htmlcomplete#CompleteTags","autocmd FileType css set omnifunc=csscomplete#CompleteCSS","autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags","autocmd FileType php set omnifunc=phpcomplete#CompletePHP","autocmd FileType c set omnifunc=ccomplete#Complete","",>20
+|<"imap <Tab> <Enter>"
+"2	CHAR	0
+	""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+	" MULTIPURPOSE TAB KEY
+	" Indent if we're at the beginning of a line. Else, do completion.
+	""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+	function! InsertTabWrapper()
+	    let col = col('.') - 1
+	    if !col || getline('.')[col - 1] !~ '\k'
+	        return "\<tab>"
+	    else
+	        return "\<c-p>"
+	    endif
+	endfunction
+	inoremap <expr> <tab> InsertTabWrapper()
+	inoremap <s-tab> <c-n>
+|3,0,2,0,14,0,1567869265,"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"","\" MULTIPURPOSE TAB KEY","\" Indent if we're at the beginning of a line. Else, do completion.","\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"","function! InsertTabWrapper()","    let col = col('.') - 1",>47
+|<"    if !col || getline('.')[col - 1] !~ '\\k'","        return \"\\<tab>\"","    else","        return \"\\<c-p>\"","    endif","endfunction","inoremap <expr> <tab> InsertTabWrapper()","inoremap <s-tab> <c-n>"
+"3	CHAR	0
+	""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+	" MULTIPURPOSE TAB KEY
+	" Indent if we're at the beginning of a line. Else, do completion.
+	""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+	function! InsertTabWrapper()
+	    let col = col('.') - 1
+	    if !col || getline('.')[col - 1] !~ '\k'
+	        return "\<tab>"
+	    else
+	        return "\<c-p>"
+	    endif
+	endfunction
+	inoremap <expr> <tab> InsertTabWrapper()
+	inoremap <s-tab> <c-n>
+|3,0,3,0,14,0,1567869261,"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"","\" MULTIPURPOSE TAB KEY","\" Indent if we're at the beginning of a line. Else, do completion.","\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"","function! InsertTabWrapper()","    let col = col('.') - 1",>47
+|<"    if !col || getline('.')[col - 1] !~ '\\k'","        return \"\\<tab>\"","    else","        return \"\\<c-p>\"","    endif","endfunction","inoremap <expr> <tab> InsertTabWrapper()","inoremap <s-tab> <c-n>"
+"4	CHAR	0
+	
+	#set -e
+	##################################################################################################################
+	# Author 	: 	Erik Dubois
+	# Website 	: 	https://www.erikdubois.be
+	# Website	:	https://www.arcolinux.info
+	# Website	:	https://www.arcolinux.com
+	# Website	:	https://www.arcolinuxd.com
+	# Website	:	https://www.arcolinuxforum.com
+	##################################################################################################################
+	#
+	#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
+	#
+	##################################################################################################################
+	
+	
+|3,0,4,0,16,0,1567268262,"","#set -e","##################################################################################################################","# Author 	: 	Erik Dubois","# Website 	: 	https://www.erikdubois.be","# Website	:	https://www.arcolinux.info","# Website	:	https://www.arcolinux.com","# Website	:	https://www.arcolinuxd.com","# Website	:	https://www.arcolinuxforum.com",>116
+|<"##################################################################################################################","#","#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.","#","##################################################################################################################","",""
+"5	LINE	0
+	wq
+	
+|3,0,5,1,2,0,1567267227,"wq",""
+"d	CHAR	0
+	klgjfdkl:w
+|3,0,13,0,1,0,1567777967,"klgjfdkl:w"
+"-	BLOCK	0
+	
+|3,0,36,2,1,0,1567869268,""
+
+# Marques dans le fichier :
+'0  3  11  ~/index.py
+|4,48,3,11,1567870949,"~/index.py"
+'1  23  1  ~/.vimrc
+|4,49,23,1,1567870873,"~/.vimrc"
+'2  18  15  ~/index.html
+|4,50,18,15,1567870845,"~/index.html"
+'3  70  13  ~/.vimrc
+|4,51,70,13,1567869818,"~/.vimrc"
+'4  70  13  ~/.vimrc
+|4,52,70,13,1567869818,"~/.vimrc"
+'5  122  24  ~/.vimrc
+|4,53,122,24,1567869543,"~/.vimrc"
+'6  122  24  ~/.vimrc
+|4,54,122,24,1567869543,"~/.vimrc"
+'7  122  24  ~/.vimrc
+|4,55,122,24,1567869543,"~/.vimrc"
+'8  122  24  ~/.vimrc
+|4,56,122,24,1567869543,"~/.vimrc"
+'9  9  39  ~/index.html
+|4,57,9,39,1567869467,"~/index.html"
+
+# Liste de sauts (le plus récent en premier) :
+-'  3  11  ~/index.py
+|4,39,3,11,1567870949,"~/index.py"
+-'  1  6  ~/index.py
+|4,39,1,6,1567870931,"~/index.py"
+-'  23  1  ~/.vimrc
+|4,39,23,1,1567870873,"~/.vimrc"
+-'  23  1  ~/.vimrc
+|4,39,23,1,1567870873,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1567870854,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1567870854,"~/.vimrc"
+-'  18  15  ~/index.html
+|4,39,18,15,1567870845,"~/index.html"
+-'  18  15  ~/index.html
+|4,39,18,15,1567870845,"~/index.html"
+-'  18  15  ~/index.html
+|4,39,18,15,1567870845,"~/index.html"
+-'  18  15  ~/index.html
+|4,39,18,15,1567870845,"~/index.html"
+-'  15  18  ~/index.html
+|4,39,15,18,1567870828,"~/index.html"
+-'  15  18  ~/index.html
+|4,39,15,18,1567870828,"~/index.html"
+-'  15  18  ~/index.html
+|4,39,15,18,1567870828,"~/index.html"
+-'  15  18  ~/index.html
+|4,39,15,18,1567870828,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1567870800,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1567870800,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1567870800,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1567870800,"~/index.html"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+-'  70  13  ~/.vimrc
+|4,39,70,13,1567869818,"~/.vimrc"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/index.py
+	*	1567870941	0
+	"	3	11
+	^	3	4
+	.	10	0
+	+	14	0
+	+	16	29
+	+	26	38
+	+	14	0
+	+	17	31
+	+	14	0
+	+	26	0
+	+	23	0
+	+	14	0
+	+	27	49
+	+	31	0
+	+	14	0
+	+	17	1
+	+	14	0
+	+	27	0
+	+	30	0
+	+	32	0
+	+	27	0
+	+	24	0
+	+	19	31
+	+	20	21
+	+	22	0
+	+	20	0
+	+	21	47
+	+	20	0
+	+	21	50
+	+	14	0
+	+	34	0
+	+	36	0
+	+	1	9
+	+	3	0
+	+	10	0
+
+> ~/.vimrc
+	*	1567870872	0
+	"	23	1
+	^	23	2
+	.	23	1
+	+	1	0
+	+	1	5
+	+	21	0
+	+	9	8
+	+	5	1
+	+	6	0
+	+	5	0
+	+	1	0
+	+	1	26
+	+	1	17
+	+	17	68
+	+	4	66
+	+	14	22
+	+	11	36
+	+	12	37
+	+	13	71
+	+	12	42
+	+	1	0
+	+	12	37
+	+	1	0
+	+	2	0
+	+	1	0
+	+	1	4
+	+	1	0
+	+	17	44
+	+	1	0
+	+	18	51
+	+	1	0
+	+	19	0
+	+	20	17
+	+	1	0
+	+	43	0
+	+	1	0
+	+	23	0
+	+	1	0
+	+	152	0
+	+	1	0
+	+	178	0
+	+	181	0
+	+	176	0
+	+	1	0
+	+	243	0
+	+	1	0
+	+	1	18
+	+	2	0
+	+	1	0
+	+	125	0
+	+	23	1
+
+> ~/index.html
+	*	1567870840	0
+	"	18	15
+	^	18	15
+	.	18	15
+	+	8	17
+	+	8	20
+	+	8	28
+	+	8	23
+	+	8	32
+	+	8	17
+	+	8	0
+	+	8	8
+	+	8	16
+	+	7	0
+	+	1	13
+	+	8	21
+	+	8	1
+	+	9	18
+	+	9	14
+	+	9	38
+	+	9	46
+	+	10	0
+	+	15	0
+	+	18	15
+
+> ~/-MiniBufExplorer-
+	*	1567869842	0
+	"	1	26
+	.	2	0
+	+	2	0
+
+> ~/.bashrc
+	*	1567777522	0
+	"	150	77
+	^	150	78
+	.	6	0
+	+	146	148
+	+	6	0
+	+	147	11
+	+	6	0
+	+	147	79
+	+	6	0
+	+	147	0
+	+	149	0
+	+	6	0
+	+	150	77
+	+	6	0
+
+> ~/arco-plasma/600-software-from-ArcoLinux-repo-v1.sh
+	*	1567541255	0
+	"	113	0
+	^	40	71
+	.	6	0
+	+	53	79
+	+	54	81
+	+	6	0
+	+	40	70
+	+	6	0
+	+	28	0
+	+	6	0
+
+> ~/index.php
+	*	1567540303	0
+	"	13	1
+	.	13	1
+	+	8	0
+	+	12	7
+	+	14	0
+	+	13	1
+
+> ~/.config/qtile/config.py
+	*	1567539720	0
+	"	265	0
+	^	265	1
+	.	7	0
+	+	14	0
+	+	85	0
+	+	14	0
+	+	579	0
+	+	7	0
+	+	268	0
+	+	265	0
+	+	7	0
+
+> ~/arco-qtile/600-software-from-ArcoLinux-repo-v1.sh
+	*	1567423899	0
+	"	59	57
+	^	64	73
+	.	6	0
+	+	63	67
+	+	64	72
+	+	6	0
+
+> ~/Public/arco-awesome/100-display-manager-and-desktop-v1.sh
+	*	1567421929	0
+	"	26	0
+	.	6	0
+	+	31	0
+	+	6	0
+
+> ~/Public/arco-qtile/100-display-manager-and-desktop-v1.sh
+	*	1567421614	0
+	"	27	0
+	^	32	23
+	.	6	0
+	+	31	22
+	+	32	22
+	+	6	0
+
+> ~/Documents/Test-Webpage/index.php
+	*	1567270617	0
+	"	14	20
+	^	14	21
+	.	7	0
+	+	8	1
+	+	9	0
+	+	10	0
+	+	11	0
+	+	16	6
+	+	14	20
+	+	7	0
+
+> ~/Documents/Test-Webpage/server.sh
+	*	1567270465	0
+	"	10	16
+	^	10	17
+	.	6	0
+	+	6	0
+	+	8	19
+	+	9	8
+	+	6	0
+	+	10	16
+	+	6	0
+
+> ~/Documents/Test-Webpage/index.html
+	*	1567270357	0
+	"	15	5
+	^	15	6
+	.	7	0
+	+	8	0
+	+	9	7
+	+	21	0
+	+	19	0
+	+	11	19
+	+	18	0
+	+	11	14
+	+	17	0
+	+	12	24
+	+	14	5
+	+	14	6
+	+	17	0
+	+	15	5
+	+	7	0
+
+> ~/https-server.py
+	*	1567269270	0
+	"	20	11
+	^	20	12
+	.	7	0
+	+	13	0
+	+	12	0
+	+	7	0
+	+	14	20
+	+	16	46
+	+	18	48
+	+	20	21
+	+	7	0
+	+	10	12
+	+	7	0
+	+	20	11
+	+	7	0
+
+> ~/setp.sh
+	*	1567268762	0
+	"	7	0
+	.	6	0
+	+	6	0
+
+> ~/ArchLinuxGI-Project/archgi-netinstall-lists/git-v1.sh
+	*	1567268277	0
+	"	2	0
+	^	2	0
+	.	1	11
+	+	27	0
+	+	1	11
+	+	3	0
+	+	1	11
+
+> ~/NERD_tree_1
+	*	1567268205	0
+	"	9	1
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_2
+	*	1567268166	0
+	"	21	12
+	.	1	0
+	+	1	0
+
+> ~/ArchLinuxGI-Project/archgi-iso/README.md
+	*	1567268137	0
+	"	1	0
+
+> ~/ArchLinuxGI-Project/archgi-iso/setup.sh
+	*	1567268136	0
+	"	1	0
+
+> ~/server.sh
+	*	1567267533	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> /usr/share/vim-plug/vimrc.sample
+	*	1567267422	0
+	"	1	0
